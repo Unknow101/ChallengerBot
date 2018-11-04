@@ -5,7 +5,9 @@ This bot is for Infosec challenge pupropose. Once installed you can manage chall
 ## Installation
 
 For running this bot you'll need MySQL and Disocrd module for node.
+
 ```npm install mysql```
+
 ```npm install discord.js```
 
 Once finished you can run the script by simply do :
