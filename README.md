@@ -16,3 +16,11 @@ Once finished you can run the script by simply do :
 ## Usage 
 
 Help is at ```Challenger Help```
+
+
+## TO-DO
+
+- [x] Auto-add/remove user from table when join or leave
+- [x] Create table for chall
+- [ ] Permit user to flag without asking admin
+- [ ] Security check
