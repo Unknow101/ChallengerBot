@@ -70,4 +70,4 @@ client.on("guildMemberRemove", (member) => {
   });
 });
 
-client.login('NTA4MjYxNzU5MDA2ODAxOTIw.Dr9dkA.iGyfu0LDefE8etU2iJPCZ-5FFzM');
+client.login('token');
