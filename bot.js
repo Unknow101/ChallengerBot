@@ -1,3 +1,5 @@
+//CODE BY Unknow101
+
 const Discord = require('discord.js');
 var mysql = require('mysql');
 
@@ -26,7 +28,8 @@ client.on('message', msg => {
   if (msg.content === 'Challenger Help') {
     msg.channel.send('Challenger list -  lister tout les challengers');
     msg.channel.send('Challenger top  -  lister les 10 premiers challengers');
-    msg.channel.send('Challenger flag [flag] - Flagger un challenge')
+    msg.channel.send('Challenger flag [flag] - Flagger un challenge');
+    msg.channel.send('Code by Unkonw101');
   }
   if(msg.content.includes('Challenger flag')) {
     msg.channel.send('Vérification de votre flag');
